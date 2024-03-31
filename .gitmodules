@@ -1,0 +1,21 @@
+[submodule "source/SharpBypassUAC"]
+	path = source/SharpBypassUAC
+	url = https://github.com/FatRodzianko/SharpBypassUAC
+[submodule "source/Pillager"]
+	path = source/Pillager
+	url = https://github.com/qwqdanchun/Pillager
+[submodule "source/SharpHostInfo"]
+	path = source/SharpHostInfo
+	url = https://github.com/shmilylty/SharpHostInfo
+[submodule "source/SharpKatz"]
+	path = source/SharpKatz
+	url = https://github.com/b4rtik/SharpKatz
+[submodule "source/SharpSchTask"]
+	path = source/SharpSchTask
+	url = https://github.com/0x727/SchTask_0x727
+[submodule "source/ScreenshotBOFPlus"]
+	path = source/ScreenshotBOFPlus
+	url = https://github.com/baiyies/ScreenshotBOFPlus
+[submodule "source/InlineExecute-Assembly"]
+	path = source/InlineExecute-Assembly
+	url = https://github.com/anthemtotheego/InlineExecute-Assembly
